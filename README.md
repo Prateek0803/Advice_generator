@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Project link:https://pensive-rosalind-e9eb65.netlify.app/
 
-## Available Scripts
+## Available Scripts for this project
 
 In the project directory, you can run:
 
